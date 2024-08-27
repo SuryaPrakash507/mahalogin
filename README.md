@@ -6,3 +6,4 @@ this is for git hooks  of mahalogin
 3 rd commit
 
 This line should trigger the jenkins job..
+upstream and downstream job trigger
