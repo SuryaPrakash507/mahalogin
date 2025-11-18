@@ -8,5 +8,5 @@ this is for git hooks  of mahalogin
 
 
 
-
+confugured github actions
 ..
